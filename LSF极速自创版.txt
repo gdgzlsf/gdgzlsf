@@ -6,7 +6,7 @@ LSF极速自创版,http://58.20.202.43:808/hls/100/index.m3u8
 
 且用且珍惜,http://58.20.202.43:808/hls/102/index.m3u8
 
-最速央卫,#genre#
+//最速央卫,#genre#
 
 CCTV1,http://39.105.167.176/live/CCTV1HD.m3u8
 
@@ -129,6 +129,24 @@ LSF三地源,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 香港有線新聞,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+明珠台,http://avd.iptviptv.site:9694/hls/103/index.m3u8
+翡翠台(原版),http://avd.iptviptv.site:9694/hls/98/index.m3u8
+千禧经典台,http://avd.iptviptv.site:9694/hls/901/index.m3u8
+翡翠台4k,http://avd.iptviptv.site:9694/hls/902/index.m3u8
+Animax,http://avd.iptviptv.site:9694/hls/903/index.m3u8
+美亚电影台,http://avd.iptviptv.site:9694/hls/904/index.m3u8
+TVB PLUS,http://avd.iptviptv.site:9694/hls/905/index.m3u8
+无线新闻台,http://avd.iptviptv.site:9694/hls/906/index.m3u8
+天映經典頻道,http://avd.iptviptv.site:9694/hls/914/index.m3u8
+黃金翡翠台,http://avd.iptviptv.site:9694/hls/916/index.m3u8
+凤凰香港,http://avd.iptviptv.site:9694/hls/730/index.m3u8
+凤凰中文,http://avd.iptviptv.site:9694/hls/731/index.m3u8
+凤凰资讯,http://avd.iptviptv.site:9694/hls/732/index.m3u8
+重温经典,http://avd.iptviptv.site:9694/hls/716/index.m3u8
+新视觉,http://avd.iptviptv.site:9694/hls/717/index.m3u8
+劲爆体育,http://avd.iptviptv.site:9694/hls/718/index.m3u8
+魅力足球,http://avd.iptviptv.site:9694/hls/719/index.m3u8
 
 三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 
@@ -464,7 +482,7 @@ TVB PLUS,http://avd.iptviptv.site:9694/hls/905/index.m3u8
 黃金翡翠台,http://avd.iptviptv.site:9694/hls/916/index.m3u8
 凤凰香港,http://avd.iptviptv.site:9694/hls/730/index.m3u8
 凤凰中文,http://avd.iptviptv.site:9694/hls/731/index.m3u8
-凤凰资询,http://avd.iptviptv.site:9694/hls/732/index.m3u8
+凤凰资讯,http://avd.iptviptv.site:9694/hls/732/index.m3u8
 重温经典,http://avd.iptviptv.site:9694/hls/716/index.m3u8
 新视觉,http://avd.iptviptv.site:9694/hls/717/index.m3u8
 劲爆体育,http://avd.iptviptv.site:9694/hls/718/index.m3u8
